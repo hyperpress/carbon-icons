@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="7px" height="12px" viewBox="0 0 7 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>chevron--left</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="chevron--left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="chevron" fill="#000000" fill-rule="nonzero" transform="translate(3.500000, 5.998096) rotate(-90.000000) translate(-3.500000, -5.998096) " points="3.49598515 3.94781865 -1.77163429 9.49781153 -2.49809598 8.81289061 3.49541351 2.49809598 9.49809598 8.81260617 8.77217466 9.49809598"></polygon>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="7" height="12" version="1.1" viewBox="0 0 7 12"><title>chevron--left</title><desc>Created with Sketch.</desc><g id="chevron--left" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><polygon id="chevron" fill="#000" fill-rule="nonzero" points="3.496 3.948 -1.772 9.498 -2.498 8.813 3.495 2.498 9.498 8.813 8.772 9.498" transform="translate(3.500000, 5.998096) rotate(-90.000000) translate(-3.500000, -5.998096)"/></g></svg>
