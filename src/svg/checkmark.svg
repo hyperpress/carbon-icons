@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="8px" viewBox="0 0 10 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>checkmark</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="checkmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Path-7" fill="#000000" fill-rule="nonzero" points="8.49778895 5.32907052e-15 10 1.50221105 3.67222048 7.82999057 1.19015908e-13 4.1577701 1.50221105 2.65555905 3.67222048 4.82556848"></polygon>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="8" version="1.1" viewBox="0 0 10 8"><title>checkmark</title><desc>Created with Sketch.</desc><g id="checkmark" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><polygon id="Path-7" fill="#000" fill-rule="nonzero" points="8.498 0 10 1.502 3.672 7.83 0 4.158 1.502 2.656 3.672 4.826"/></g></svg>
